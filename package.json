@@ -1,0 +1,30 @@
+{
+  "name": "csv-string-command",
+  "version": "1.0.0",
+  "description": "Parse the standard input using csv-string",
+  "main": "index.js",
+  "bin": {
+    "csv-string": "bin.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parmentf/csv-string-command.git"
+  },
+  "keywords": [
+    "csv",
+    "parse"
+  ],
+  "author": "François Parmentier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parmentf/csv-string-command/issues"
+  },
+  "homepage": "https://github.com/parmentf/csv-string-command#readme",
+  "dependencies": {
+    "csv-string": "^2.3.0"
+  }
+}
