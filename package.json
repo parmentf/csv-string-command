@@ -1,6 +1,6 @@
 {
   "name": "csv-string-command",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse the standard input using csv-string",
   "main": "index.js",
   "bin": {
